@@ -13,7 +13,7 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 public class DOM01 {
-
+	// 하이 고은지? 
 	public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException{
 		
 		//XML 문서 파싱
